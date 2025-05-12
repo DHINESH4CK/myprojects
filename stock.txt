@@ -1,4 +1,5 @@
  working directory 
  staging area
  repository
- 
+
+this is a cloud data
